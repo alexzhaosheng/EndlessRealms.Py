@@ -1,0 +1,1 @@
+export type GameStatus = 'Initializing' | 'Error' | 'MissingKey' | 'NoLanguage' | 'NoWorld' | 'Ready' | 'Running';
